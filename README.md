@@ -1,1 +1,13 @@
-# chatbot_api_chatgpt_react
+# Dependências:
+
+## Vite:
+
+npm create vite@latest
+
+## Axio:
+
+npm i axios
+
+## React Router DOM:
+
+npm i react-router-dom
